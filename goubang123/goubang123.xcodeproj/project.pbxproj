@@ -15,6 +15,7 @@
 		82F8E9881CF2C2E0003C2B05 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82F8E9861CF2C2E0003C2B05 /* LaunchScreen.storyboard */; };
 		82F8E9931CF2C2E0003C2B05 /* goubang123Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82F8E9921CF2C2E0003C2B05 /* goubang123Tests.m */; };
 		82F8E99E1CF2C2E0003C2B05 /* goubang123UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 82F8E99D1CF2C2E0003C2B05 /* goubang123UITests.m */; };
+		82F8E9AD1CF2C3D0003C2B05 /* goubang3445.m in Sources */ = {isa = PBXBuildFile; fileRef = 82F8E9AC1CF2C3D0003C2B05 /* goubang3445.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		82F8E9991CF2C2E0003C2B05 /* goubang123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = goubang123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F8E99D1CF2C2E0003C2B05 /* goubang123UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = goubang123UITests.m; sourceTree = "<group>"; };
 		82F8E99F1CF2C2E0003C2B05 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		82F8E9AB1CF2C3D0003C2B05 /* goubang3445.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = goubang3445.h; sourceTree = "<group>"; };
+		82F8E9AC1CF2C3D0003C2B05 /* goubang3445.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = goubang3445.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +113,8 @@
 				82F8E9861CF2C2E0003C2B05 /* LaunchScreen.storyboard */,
 				82F8E9891CF2C2E0003C2B05 /* Info.plist */,
 				82F8E9781CF2C2E0003C2B05 /* Supporting Files */,
+				82F8E9AB1CF2C3D0003C2B05 /* goubang3445.h */,
+				82F8E9AC1CF2C3D0003C2B05 /* goubang3445.m */,
 			);
 			path = goubang123;
 			sourceTree = "<group>";
@@ -276,6 +281,7 @@
 				82F8E9801CF2C2E0003C2B05 /* ViewController.m in Sources */,
 				82F8E97D1CF2C2E0003C2B05 /* AppDelegate.m in Sources */,
 				82F8E97A1CF2C2E0003C2B05 /* main.m in Sources */,
+				82F8E9AD1CF2C3D0003C2B05 /* goubang3445.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
